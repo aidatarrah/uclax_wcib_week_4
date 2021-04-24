@@ -80,7 +80,7 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
-@media (max-width:1920px, min-width:1366px){
+@media (max-width:1920px), (min-width:768px){
 .cover-heading, .lead {
   padding-left: 259px;
 }
