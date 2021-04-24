@@ -76,11 +76,11 @@ body {
     font-size: 3.5rem; } }
 
 @media (max-width: 667px) {
-  .cover-heading, .lead {
-    padding-left: 1.2rem; }
   body, html {
     background-image: none;
-    background-color: #efe6d5; } }
+    background-color: #efe6d5; }
+  .cover-heading, .lead {
+    padding-left: 1.2rem; } }
 
 /*
  * Cover
