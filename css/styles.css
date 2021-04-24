@@ -67,6 +67,14 @@ body {
 .cover-heading, .lead {
   padding-left: 259px; }
 
+@media (min-width: 768em) {
+  .masthead-brand {
+    float: left; }
+  .nav-masthead {
+    float: right; }
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem; } }
+
 @media (max-width: 667px) {
   body, html {
     background-image: none;
