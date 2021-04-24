@@ -68,9 +68,11 @@ body {
 
 @media (min-width: 48em) {
   .masthead-brand {
-    float: left; }
+    float: center; }
   .nav-masthead {
-    float: right; } }
+    float: right; }
+  body [background] {
+    display: none; } }
 
 /*
  * Cover
