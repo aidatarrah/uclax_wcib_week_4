@@ -25,8 +25,7 @@ html,
 body {
   height: 100%;
   background: url("../img/pale_background.jpg");
-  font-family: 'Montserrat', sans-serif;
-  text-decoration-skip-ink: none; }
+  font-family: 'Montserrat', sans-serif; }
 
 body {
   display: -ms-flexbox;
@@ -70,9 +69,7 @@ body {
   .masthead-brand {
     float: center; }
   .nav-masthead {
-    float: right; }
-  body [background] {
-    display: none; } }
+    float: right; } }
 
 /*
  * Cover
