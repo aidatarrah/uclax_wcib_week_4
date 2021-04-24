@@ -80,7 +80,7 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
-@media (max-width:1920px), (min-width:768px){
+@media (min-width: 1200px) {
 .cover-heading, .lead {
   padding-left: 259px;
 }
@@ -98,7 +98,7 @@ float: left;
   }
 }
 
-@media (max-width: 667px) {
+@media (max-width: 768px) {
  body, html {
     background-image: none;
     background-color: #efe6d5;
